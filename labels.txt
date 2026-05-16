@@ -1,0 +1,6 @@
+0 Apple
+1 Banana
+2 Pineapple
+3 Cucumber
+4 Orange
+5 Strawberry
